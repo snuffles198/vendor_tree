@@ -980,6 +980,7 @@ PRODUCT_PACKAGES += \
     libxtwifi_server_protocol \
     libxtwifi_server_protocol_uri_v3 \
     nfc_nci.st21nfc.st \
+    pixel-power-ext-V1-ndk \
     qcrild_librilutils \
     qtibus \
     qtimutex \
